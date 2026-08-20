@@ -1,0 +1,21 @@
+Method,ObservedStage,Rank,Estimable,RankLabel
+Raw directional RVE,EMBRYO,1,TRUE,1
+Raw directional RVE,LARVA,3,TRUE,3
+Raw directional RVE,SETTLEMENT/METAMORPHOSIS,2,TRUE,2
+Raw directional RVE,JUVENILE/ADULT,4,TRUE,4
+Aligned performance RVE,EMBRYO,1,TRUE,1
+Aligned performance RVE,LARVA,2,TRUE,2
+Aligned performance RVE,SETTLEMENT/METAMORPHOSIS,,FALSE,NE
+Aligned performance RVE,JUVENILE/ADULT,3,TRUE,3
+All endpoints: magnitude,EMBRYO,4,TRUE,4
+All endpoints: magnitude,LARVA,3,TRUE,3
+All endpoints: magnitude,SETTLEMENT/METAMORPHOSIS,1,TRUE,1
+All endpoints: magnitude,JUVENILE/ADULT,2,TRUE,2
+Development only: magnitude,EMBRYO,3,TRUE,3
+Development only: magnitude,LARVA,1,TRUE,1
+Development only: magnitude,SETTLEMENT/METAMORPHOSIS,2,TRUE,2
+Development only: magnitude,JUVENILE/ADULT,4,TRUE,4
+Interpretable only: magnitude,EMBRYO,2,TRUE,2
+Interpretable only: magnitude,LARVA,3,TRUE,3
+Interpretable only: magnitude,SETTLEMENT/METAMORPHOSIS,,FALSE,NE
+Interpretable only: magnitude,JUVENILE/ADULT,1,TRUE,1

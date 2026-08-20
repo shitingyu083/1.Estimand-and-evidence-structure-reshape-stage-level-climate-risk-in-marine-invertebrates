@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='510.24pt' height='340.16pt' viewBox='0 0 510.24 340.16'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MTAuMjR8MC4wMHwzNDAuMTY='>
+    <rect x='0.00' y='0.00' width='510.24' height='340.16' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MTAuMjR8MC4wMHwzNDAuMTY=)'>
+<rect x='0.00' y='0.000000000000057' width='510.24' height='340.16' style='stroke-width: 0.00; stroke: none;' />
+<text transform='translate(32.63,60.41) rotate(-90)' text-anchor='middle' style='font-size: 6.80px; font-weight: bold;fill: #555B61; font-family: "Arial";' textLength='42.33px' lengthAdjust='spacingAndGlyphs'>Identification</text>
+<text transform='translate(32.63,148.97) rotate(-90)' text-anchor='middle' style='font-size: 6.80px; font-weight: bold;fill: #555B61; font-family: "Arial";' textLength='32.88px' lengthAdjust='spacingAndGlyphs'>Screening</text>
+<text transform='translate(32.63,281.83) rotate(-90)' text-anchor='middle' style='font-size: 6.80px; font-weight: bold;fill: #555B61; font-family: "Arial";' textLength='27.97px' lengthAdjust='spacingAndGlyphs'>Included</text>
+<rect x='55.17' y='38.26' width='135.54' height='44.28' style='stroke-width: 0.85; stroke: #2477A8; stroke-linecap: butt; stroke-linejoin: miter; fill: #DCEAF2;' />
+<text x='122.94' y='55.24' text-anchor='middle' style='font-size: 6.60px;fill: #222426; font-family: "Arial";' textLength='106.02px' lengthAdjust='spacingAndGlyphs'>Existing model-ready evidence base</text>
+<text x='122.94' y='62.77' text-anchor='middle' style='font-size: 6.60px;fill: #222426; font-family: "Arial";' textLength='116.45px' lengthAdjust='spacingAndGlyphs'>(previous curated + validated synthesis)</text>
+<text x='122.94' y='70.29' text-anchor='middle' style='font-size: 6.60px;fill: #222426; font-family: "Arial";' textLength='51.20px' lengthAdjust='spacingAndGlyphs'>2,313 effect sizes</text>
+<rect x='208.54' y='38.26' width='149.81' height='44.28' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt; stroke-linejoin: miter; fill: #F2F3F4;' />
+<text x='283.44' y='55.24' text-anchor='middle' style='font-size: 6.60px;fill: #222426; font-family: "Arial";' textLength='131.72px' lengthAdjust='spacingAndGlyphs'>Records identified in pre-2026 update search</text>
+<text x='283.44' y='62.77' text-anchor='middle' style='font-size: 6.60px;fill: #222426; font-family: "Arial";' textLength='113.86px' lengthAdjust='spacingAndGlyphs'>(Crossref, PANGAEA, Nature Portfolio)</text>
+<text x='283.44' y='70.29' text-anchor='middle' style='font-size: 6.60px;fill: #222426; font-family: "Arial";' textLength='42.36px' lengthAdjust='spacingAndGlyphs'>n = 21 records</text>
+<rect x='215.67' y='125.25' width='135.54' height='28.47' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt; stroke-linejoin: miter; fill: #F2F3F4;' />
+<text x='283.44' y='138.08' text-anchor='middle' style='font-size: 6.60px;fill: #222426; font-family: "Arial";' textLength='53.56px' lengthAdjust='spacingAndGlyphs'>Records screened</text>
+<text x='283.44' y='145.61' text-anchor='middle' style='font-size: 6.60px;fill: #222426; font-family: "Arial";' textLength='18.52px' lengthAdjust='spacingAndGlyphs'>n = 21</text>
+<rect x='361.91' y='101.53' width='114.14' height='75.92' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFFFFF;' />
+<text x='368.33' y='124.53' style='font-size: 6.00px;fill: #222426; font-family: "Arial";' textLength='72.30px' lengthAdjust='spacingAndGlyphs'>Records excluded (n = 17):</text>
+<text x='368.33' y='131.37' style='font-size: 6.00px;fill: #222426; font-family: "Arial";' textLength='81.91px' lengthAdjust='spacingAndGlyphs'>Outside pre-2026 cutoff (n = 5)</text>
+<text x='368.33' y='138.21' style='font-size: 6.00px;fill: #222426; font-family: "Arial";' textLength='104.72px' lengthAdjust='spacingAndGlyphs'>Full-text data not yet extractable (n = 7)</text>
+<text x='368.33' y='145.05' style='font-size: 6.00px;fill: #222426; font-family: "Arial";' textLength='104.05px' lengthAdjust='spacingAndGlyphs'>No auditable raw response data (n = 1)</text>
+<text x='368.33' y='151.89' style='font-size: 6.00px;fill: #222426; font-family: "Arial";' textLength='100.38px' lengthAdjust='spacingAndGlyphs'>Outside endpoint / scope rules (n = 2)</text>
+<text x='368.33' y='158.73' style='font-size: 6.00px;fill: #222426; font-family: "Arial";' textLength='88.34px' lengthAdjust='spacingAndGlyphs'>Background / context only (n = 2)</text>
+<rect x='212.11' y='207.49' width='142.67' height='34.80' style='stroke-width: 0.85; stroke: #2A8C72; stroke-linecap: butt; stroke-linejoin: miter; fill: #2A8C72;' />
+<text x='283.44' y='223.49' text-anchor='middle' style='font-size: 6.60px;fill: #FFFFFF; font-family: "Arial";' textLength='92.78px' lengthAdjust='spacingAndGlyphs'>New studies added to synthesis</text>
+<text x='283.44' y='231.02' text-anchor='middle' style='font-size: 6.60px;fill: #FFFFFF; font-family: "Arial";' textLength='104.73px' lengthAdjust='spacingAndGlyphs'>4 study records; 99 new effect sizes</text>
+<rect x='83.70' y='275.50' width='242.54' height='37.96' style='stroke-width: 0.85; stroke: #2477A8; stroke-linecap: butt; stroke-linejoin: miter; fill: #2477A8;' />
+<text x='204.97' y='293.08' text-anchor='middle' style='font-size: 6.60px; font-weight: bold;fill: #FFFFFF; font-family: "Arial";' textLength='86.55px' lengthAdjust='spacingAndGlyphs'>Final quantitative synthesis</text>
+<text x='204.97' y='300.61' text-anchor='middle' style='font-size: 6.60px; font-weight: bold;fill: #FFFFFF; font-family: "Arial";' textLength='210.53px' lengthAdjust='spacingAndGlyphs'>162 study records; 2,412 effect sizes across four life-history stages</text>
+<line x1='283.44' y1='82.55' x2='283.44' y2='124.93' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt;' />
+<polygon points='281.18,121.01 283.44,124.93 285.71,121.01 ' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt; fill: #555B61;' />
+<line x1='283.44' y1='153.72' x2='283.44' y2='207.18' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt;' />
+<polygon points='281.18,203.25 283.44,207.18 285.71,203.25 ' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt; fill: #555B61;' />
+<line x1='351.21' y1='139.49' x2='361.91' y2='139.49' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt;' />
+<polygon points='357.98,141.75 361.91,139.49 357.98,137.22 ' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt; fill: #555B61;' />
+<line x1='122.94' y1='82.55' x2='122.94' y2='274.87' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt;' />
+<polygon points='120.67,270.94 122.94,274.87 125.21,270.94 ' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt; fill: #555B61;' />
+<line x1='283.44' y1='242.29' x2='269.18' y2='274.87' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt;' />
+<polygon points='268.67,270.36 269.18,274.87 272.83,272.18 ' style='stroke-width: 0.85; stroke: #555B61; stroke-linecap: butt; fill: #555B61;' />
+<text x='253.13' y='11.84' text-anchor='middle' style='font-size: 8.20px; font-weight: bold; font-family: "Arial";' textLength='105.05px' lengthAdjust='spacingAndGlyphs'>Evidence-base update flow</text>
+</g>
+</g>
+</svg>

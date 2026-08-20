@@ -1,0 +1,37 @@
+Target,Model,Feature,MeanDeltaRMSE,SEDeltaRMSE
+Reference-deviation target,Random forest,LogPrecision,0.013179475776219068,0.005007634825093776
+Reference-deviation target,Random forest,StressorLabel,0.004298873398380048,0.0012782672433865874
+Reference-deviation target,Random forest,Animal,0.002369202035428454,0.0011052881936280943
+Reference-deviation target,Random forest,PaperYear,0.0013739571713320923,0.0004987077809232384
+Reference-deviation target,Random forest,RawEffectSizeCount,0.0007566214120296538,0.0007340273859241689
+Reference-deviation target,Random forest,Category,0.00046171139800454676,0.0008140170061226268
+Reference-deviation target,Random forest,Family,0.00033556167754516115,0.0002915089831528276
+Reference-deviation target,Random forest,ObservedStage,2.5579297434556724e-05,0.001066059288087421
+Reference-deviation target,Random forest,DevelopmentalModeGroup,0.0,0.0
+Reference-deviation target,Regularized linear model,LogPrecision,0.025964023614916516,0.0048758241445372025
+Reference-deviation target,Regularized linear model,Animal,0.007525337588814472,0.004098104126381573
+Reference-deviation target,Regularized linear model,StressorLabel,0.005960633402768663,0.0006863387648213005
+Reference-deviation target,Regularized linear model,Category,0.003289835465044466,0.0017017589640048185
+Reference-deviation target,Regularized linear model,RawEffectSizeCount,0.0006349433280586194,0.000943629910387083
+Reference-deviation target,Regularized linear model,DevelopmentalModeGroup,0.0,0.0
+Reference-deviation target,Regularized linear model,ObservedStage,-5.691489044076237e-05,0.0015395459870709734
+Reference-deviation target,Regularized linear model,PaperYear,-0.0002128247145441048,0.00041725863921761015
+Reference-deviation target,Regularized linear model,Family,-0.0011906449010332637,0.001273122197047286
+Signed study-stage-category lnRR,Random forest,ObservedStage,0.007304956523425844,0.0025215990896542704
+Signed study-stage-category lnRR,Random forest,Category,0.004412837110416694,0.001722095986052791
+Signed study-stage-category lnRR,Random forest,StressorLabel,0.0024914113800364444,0.0010187464273717435
+Signed study-stage-category lnRR,Random forest,PaperYear,0.0021049989178372973,0.00134227441466367
+Signed study-stage-category lnRR,Random forest,LogPrecision,0.0017572161410371295,0.005287330209590783
+Signed study-stage-category lnRR,Random forest,Animal,0.0003570480165756687,0.0011771128497036687
+Signed study-stage-category lnRR,Random forest,DevelopmentalModeGroup,0.0,0.0
+Signed study-stage-category lnRR,Random forest,RawEffectSizeCount,-0.0008279732945536799,0.001066430372547781
+Signed study-stage-category lnRR,Random forest,Family,-0.0021134978170127758,0.0013293307110465696
+Signed study-stage-category lnRR,Regularized linear model,Animal,0.0059014422046913635,0.0013367517427711197
+Signed study-stage-category lnRR,Regularized linear model,Category,0.004452629257832618,0.0024916034483160603
+Signed study-stage-category lnRR,Regularized linear model,StressorLabel,0.0029882829571101998,0.0007740486510247015
+Signed study-stage-category lnRR,Regularized linear model,ObservedStage,0.001482699265260834,0.0030381716343243132
+Signed study-stage-category lnRR,Regularized linear model,DevelopmentalModeGroup,0.0,0.0
+Signed study-stage-category lnRR,Regularized linear model,RawEffectSizeCount,-0.00027455835049098877,0.0002033020305462573
+Signed study-stage-category lnRR,Regularized linear model,PaperYear,-0.0003592251850662795,0.0003034731353283219
+Signed study-stage-category lnRR,Regularized linear model,LogPrecision,-0.0018153150222918178,0.000835889188230891
+Signed study-stage-category lnRR,Regularized linear model,Family,-0.003593872709262548,0.002691278132493362

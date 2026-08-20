@@ -1,0 +1,8 @@
+SearchDate,Source,Query,LocalRecord,ResultUse
+2026-06-26,Crossref,"ocean acidification ocean warming marine invertebrate, 2022-2025",_crossref_oa_ow_inverts_2022_2025.json,candidate screening and DOI metadata
+2026-06-26,DataCite,"ocean warming acidification marine invertebrate, 2022-2025",_datacite_2022_2025_search.json,open-data repository screening
+2026-06-26,PANGAEA,PANGAEA.973022,_pangaea_973022.tsv,included model-ready calcification extraction
+2026-06-26,NERC EDS UK Polar Data Centre,Williams 2024 macrofaunal morphology and behavioural/ecosystem open data,_williams2024_*.csv,included model-ready trait extraction
+2026-06-26,Springer,10.1007/s00227-025-04623-6,_springer_chama_2025_fulltext.html; _chama2025_supplementary_extracted_text.txt,partly included: Supplementary Table 4 shell-mineralogy rows; other endpoints screened but not model-ready
+2026-06-26,PANGAEA/DataCite,PANGAEA.959731,_pangaea_959731.tsv,not counted as 2022-2025 model update because dataset supplements a 2019 paper
+2026-07-28,DataCite/PANGAEA,Desmophyllum pertusum embryonic survival development ocean acidification PANGAEA 964218 964219,logs/public_data_checks/PANGAEA_964218_survival.tsv; logs/public_data_checks/PANGAEA_964219_development.tsv,included model-ready embryo survival and normal-development acidification contrasts

@@ -1,0 +1,13 @@
+ObservedStage,StressorLabel,EffectSizeCount,StudyCount,SpeciesCount
+EMBRYO,Acidification,136,26,32
+EMBRYO,Warming,102,25,31
+EMBRYO,Warming + acidification,181,25,31
+LARVA,Acidification,146,38,34
+LARVA,Warming,127,38,34
+LARVA,Warming + acidification,199,38,34
+SETTLEMENT/METAMORPHOSIS,Acidification,14,10,11
+SETTLEMENT/METAMORPHOSIS,Warming,11,9,10
+SETTLEMENT/METAMORPHOSIS,Warming + acidification,16,10,11
+JUVENILE/ADULT,Acidification,480,111,119
+JUVENILE/ADULT,Warming,392,112,119
+JUVENILE/ADULT,Warming + acidification,608,113,124

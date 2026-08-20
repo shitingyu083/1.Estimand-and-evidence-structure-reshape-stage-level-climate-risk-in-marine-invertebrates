@@ -1,0 +1,49 @@
+EvidenceSet,Definition,ObservedStage,Estimate,CI_low,CI_high,StageRank,StudyCount,EffectSizeCount
+All eligible endpoints,Endpoint-level |lnRR| averaged within study-stage,EMBRYO,0.1513504088380057,0.08806814452879509,0.21463267314721635,4,25,406
+All eligible endpoints,Absolute signed study-stage aggregate,EMBRYO,0.12843869065728805,0.0644191990586132,0.1924581822559629,4,25,406
+All eligible endpoints,Median absolute signed study-stage aggregate,EMBRYO,0.06245246960978917,0.032183083511777295,0.1241804657428223,4,25,406
+All eligible endpoints,Noise-corrected RMS signed study-stage aggregate,EMBRYO,0.2123247436388114,0.1102326659427963,0.294099038048833,4,25,406
+All eligible endpoints,Endpoint-level |lnRR| averaged within study-stage,LARVA,0.20771265082880053,0.15007431127036178,0.2653509903872393,3,38,472
+All eligible endpoints,Absolute signed study-stage aggregate,LARVA,0.1503111886291598,0.09870574928310907,0.2019166279752105,3,38,472
+All eligible endpoints,Median absolute signed study-stage aggregate,LARVA,0.10974366734061627,0.06276567854687756,0.1453348214274558,3,38,472
+All eligible endpoints,Noise-corrected RMS signed study-stage aggregate,LARVA,0.27060070250917007,0.14103374453812395,0.410861055582607,3,38,472
+All eligible endpoints,Endpoint-level |lnRR| averaged within study-stage,SETTLEMENT/METAMORPHOSIS,0.39948936784133643,0.20095893608803242,0.5980197995946405,1,10,41
+All eligible endpoints,Absolute signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,0.2844412662178892,0.06568931182309315,0.5031932206126852,1,10,41
+All eligible endpoints,Median absolute signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,0.15794928355756477,0.034708829516014846,0.4923265146421161,1,10,41
+All eligible endpoints,Noise-corrected RMS signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,0.4060111114853392,0.051564760421240155,0.6224684953322084,1,10,41
+All eligible endpoints,Endpoint-level |lnRR| averaged within study-stage,JUVENILE/ADULT,0.28537042735971113,0.23729278226190872,0.3334480724575135,2,101,1317
+All eligible endpoints,Absolute signed study-stage aggregate,JUVENILE/ADULT,0.2071263924380891,0.16238969625610988,0.25186308862006834,2,101,1317
+All eligible endpoints,Median absolute signed study-stage aggregate,JUVENILE/ADULT,0.13321952114519953,0.06499087695248673,0.19754759727194338,2,101,1317
+All eligible endpoints,Noise-corrected RMS signed study-stage aggregate,JUVENILE/ADULT,0.3119263630655119,0.2523302941967225,0.3663480422465828,2,101,1317
+Development endpoints only,Endpoint-level |lnRR| averaged within study-stage,EMBRYO,0.2098593886630633,0.12048463025210968,0.29923414707401697,3,11,90
+Development endpoints only,Absolute signed study-stage aggregate,EMBRYO,0.1907292631277757,0.10301560653591568,0.2784429197196357,3,11,90
+Development endpoints only,Median absolute signed study-stage aggregate,EMBRYO,0.15689830508474575,0.11569987185889401,0.316632944228275,3,11,90
+Development endpoints only,Noise-corrected RMS signed study-stage aggregate,EMBRYO,0.22037048711308904,0.12020939396465628,0.3001287574825216,4,11,90
+Development endpoints only,Endpoint-level |lnRR| averaged within study-stage,LARVA,0.36960033075614235,0.20463405357718656,0.5345666079350981,2,21,170
+Development endpoints only,Absolute signed study-stage aggregate,LARVA,0.32532946005012503,0.1552021170386327,0.4954568030616173,1,21,170
+Development endpoints only,Median absolute signed study-stage aggregate,LARVA,0.1768076411215603,0.08450845873747301,0.3752599100371555,1,21,170
+Development endpoints only,Noise-corrected RMS signed study-stage aggregate,LARVA,0.7277195881546161,0.24198416780494478,1.166378708004669,1,21,170
+Development endpoints only,Endpoint-level |lnRR| averaged within study-stage,SETTLEMENT/METAMORPHOSIS,0.39948936784133643,0.20095893608803242,0.5980197995946405,1,10,41
+Development endpoints only,Absolute signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,0.2844412662178892,0.06568931182309315,0.5031932206126852,2,10,41
+Development endpoints only,Median absolute signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,0.15794928355756477,0.034708829516014846,0.4805019154707139,2,10,41
+Development endpoints only,Noise-corrected RMS signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,0.4060111114853392,0.05268953222937225,0.6132887860951681,2,10,41
+Development endpoints only,Endpoint-level |lnRR| averaged within study-stage,JUVENILE/ADULT,0.18637540521480733,0.01814536308893469,0.35460544734068,4,8,58
+Development endpoints only,Absolute signed study-stage aggregate,JUVENILE/ADULT,0.1785182171356072,0.006135683998013952,0.35090075027320045,4,8,58
+Development endpoints only,Median absolute signed study-stage aggregate,JUVENILE/ADULT,0.1079292666268249,0.025656164995331087,0.20209109833521796,4,8,58
+Development endpoints only,Noise-corrected RMS signed study-stage aggregate,JUVENILE/ADULT,0.30495929007697065,0.07737612557163207,0.5031283297546838,3,8,58
+Conservatively direction-interpretable endpoints,Endpoint-level |lnRR| averaged within study-stage,EMBRYO,0.16993410748107804,0.08456522162309925,0.2553029933390568,2,17,247
+Conservatively direction-interpretable endpoints,Absolute signed study-stage aggregate,EMBRYO,0.14532856199423183,0.05971447396119735,0.23094265002726633,2,17,247
+Conservatively direction-interpretable endpoints,Median absolute signed study-stage aggregate,EMBRYO,0.07543715049418821,0.03377411313839122,0.20419352264659307,3,17,247
+Conservatively direction-interpretable endpoints,Noise-corrected RMS signed study-stage aggregate,EMBRYO,0.2339941500382773,0.09937485853257343,0.33578720319818783,2,17,247
+Conservatively direction-interpretable endpoints,Endpoint-level |lnRR| averaged within study-stage,LARVA,0.15474536805161077,0.10995747222073621,0.19953326388248532,3,30,250
+Conservatively direction-interpretable endpoints,Absolute signed study-stage aggregate,LARVA,0.10841719768690543,0.07280479230727929,0.14402960306653156,3,30,250
+Conservatively direction-interpretable endpoints,Median absolute signed study-stage aggregate,LARVA,0.07555753949083627,0.05052623697654106,0.16140123959866343,2,30,250
+Conservatively direction-interpretable endpoints,Noise-corrected RMS signed study-stage aggregate,LARVA,0.14268325758188802,0.10398536317936663,0.1775342334578796,3,30,250
+Conservatively direction-interpretable endpoints,Endpoint-level |lnRR| averaged within study-stage,SETTLEMENT/METAMORPHOSIS,,,,,1,5
+Conservatively direction-interpretable endpoints,Absolute signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,,,,,1,5
+Conservatively direction-interpretable endpoints,Median absolute signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,0.03454510617388004,0.03454510617388004,0.03454510617388004,4,1,5
+Conservatively direction-interpretable endpoints,Noise-corrected RMS signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,0,0,0,4,1,5
+Conservatively direction-interpretable endpoints,Endpoint-level |lnRR| averaged within study-stage,JUVENILE/ADULT,0.27907812141595023,0.21198959443720866,0.3461666483946918,1,69,658
+Conservatively direction-interpretable endpoints,Absolute signed study-stage aggregate,JUVENILE/ADULT,0.2067206779213468,0.1476080051598806,0.265833350682813,1,69,658
+Conservatively direction-interpretable endpoints,Median absolute signed study-stage aggregate,JUVENILE/ADULT,0.14623653899499428,0.06817950693338914,0.20239864910964042,1,69,658
+Conservatively direction-interpretable endpoints,Noise-corrected RMS signed study-stage aggregate,JUVENILE/ADULT,0.3516457895541961,0.2404026191901506,0.46452865914314706,1,69,658

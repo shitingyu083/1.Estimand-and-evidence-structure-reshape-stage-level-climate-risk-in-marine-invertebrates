@@ -1,0 +1,8 @@
+Item,Value,Status
+Model-ready rows,2236,PASS
+Study count,149,PASS
+Reference-deviation rows,74,PASS
+ML study-stage-category rows,1117,PASS
+Grouped CV performance rows,6,PASS
+Permutation importance rows,36,PASS
+Fig5 TIFF exists,True,PASS

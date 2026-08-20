@@ -1,0 +1,5 @@
+ObservedStage,BeneficialEffectSizes,AdverseEffectSizes,ContextDependentEffectSizes,EffectSizeCount,StudyCount,SpeciesCount,DriverCount,CategoryCount,AlignedEffectSizes,ContextDependentShare
+EMBRYO,322,56,41,419,26,32,3,5,378,0.09785202863961814
+LARVA,256,78,138,472,38,34,3,7,334,0.2923728813559322
+SETTLEMENT/METAMORPHOSIS,5,0,36,41,10,11,3,1,5,0.8780487804878049
+JUVENILE/ADULT,748,63,669,1480,113,124,3,10,811,0.452027027027027

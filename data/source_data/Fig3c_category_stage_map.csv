@@ -1,0 +1,121 @@
+Category,ObservedStage,StressorLabel,EffectSizeCount,has,logn
+Behavior,EMBRYO,Acidification,,FALSE,
+Behavior,EMBRYO,Warming,,FALSE,
+Behavior,EMBRYO,Warming + acidification,,FALSE,
+Behavior,JUVENILE/ADULT,Acidification,41,TRUE,1.6232492903979006
+Behavior,JUVENILE/ADULT,Warming,43,TRUE,1.6434526764861874
+Behavior,JUVENILE/ADULT,Warming + acidification,78,TRUE,1.8976270912904414
+Behavior,LARVA,Acidification,5,TRUE,0.7781512503836436
+Behavior,LARVA,Warming,5,TRUE,0.7781512503836436
+Behavior,LARVA,Warming + acidification,6,TRUE,0.8450980400142568
+Behavior,SETTLEMENT/METAMORPHOSIS,Acidification,,FALSE,
+Behavior,SETTLEMENT/METAMORPHOSIS,Warming,,FALSE,
+Behavior,SETTLEMENT/METAMORPHOSIS,Warming + acidification,,FALSE,
+Biodiversity,EMBRYO,Acidification,,FALSE,
+Biodiversity,EMBRYO,Warming,,FALSE,
+Biodiversity,EMBRYO,Warming + acidification,,FALSE,
+Biodiversity,JUVENILE/ADULT,Acidification,9,TRUE,1
+Biodiversity,JUVENILE/ADULT,Warming,3,TRUE,0.6020599913279624
+Biodiversity,JUVENILE/ADULT,Warming + acidification,9,TRUE,1
+Biodiversity,LARVA,Acidification,,FALSE,
+Biodiversity,LARVA,Warming,,FALSE,
+Biodiversity,LARVA,Warming + acidification,,FALSE,
+Biodiversity,SETTLEMENT/METAMORPHOSIS,Acidification,,FALSE,
+Biodiversity,SETTLEMENT/METAMORPHOSIS,Warming,,FALSE,
+Biodiversity,SETTLEMENT/METAMORPHOSIS,Warming + acidification,,FALSE,
+Biomechanics,EMBRYO,Acidification,,FALSE,
+Biomechanics,EMBRYO,Warming,,FALSE,
+Biomechanics,EMBRYO,Warming + acidification,,FALSE,
+Biomechanics,JUVENILE/ADULT,Acidification,31,TRUE,1.505149978319906
+Biomechanics,JUVENILE/ADULT,Warming,24,TRUE,1.3979400086720377
+Biomechanics,JUVENILE/ADULT,Warming + acidification,34,TRUE,1.5440680443502757
+Biomechanics,LARVA,Acidification,,FALSE,
+Biomechanics,LARVA,Warming,,FALSE,
+Biomechanics,LARVA,Warming + acidification,,FALSE,
+Biomechanics,SETTLEMENT/METAMORPHOSIS,Acidification,,FALSE,
+Biomechanics,SETTLEMENT/METAMORPHOSIS,Warming,,FALSE,
+Biomechanics,SETTLEMENT/METAMORPHOSIS,Warming + acidification,,FALSE,
+Calcification,EMBRYO,Acidification,,FALSE,
+Calcification,EMBRYO,Warming,,FALSE,
+Calcification,EMBRYO,Warming + acidification,,FALSE,
+Calcification,JUVENILE/ADULT,Acidification,73,TRUE,1.8692317197309762
+Calcification,JUVENILE/ADULT,Warming,63,TRUE,1.806179973983887
+Calcification,JUVENILE/ADULT,Warming + acidification,79,TRUE,1.9030899869919435
+Calcification,LARVA,Acidification,9,TRUE,1
+Calcification,LARVA,Warming,9,TRUE,1
+Calcification,LARVA,Warming + acidification,14,TRUE,1.1760912590556813
+Calcification,SETTLEMENT/METAMORPHOSIS,Acidification,,FALSE,
+Calcification,SETTLEMENT/METAMORPHOSIS,Warming,,FALSE,
+Calcification,SETTLEMENT/METAMORPHOSIS,Warming + acidification,,FALSE,
+Development,EMBRYO,Acidification,35,TRUE,1.5563025007672873
+Development,EMBRYO,Warming,23,TRUE,1.380211241711606
+Development,EMBRYO,Warming + acidification,36,TRUE,1.568201724066995
+Development,JUVENILE/ADULT,Acidification,23,TRUE,1.380211241711606
+Development,JUVENILE/ADULT,Warming,14,TRUE,1.1760912590556813
+Development,JUVENILE/ADULT,Warming + acidification,26,TRUE,1.4313637641589874
+Development,LARVA,Acidification,49,TRUE,1.6989700043360187
+Development,LARVA,Warming,40,TRUE,1.6127838567197355
+Development,LARVA,Warming + acidification,81,TRUE,1.9138138523837167
+Development,SETTLEMENT/METAMORPHOSIS,Acidification,14,TRUE,1.1760912590556813
+Development,SETTLEMENT/METAMORPHOSIS,Warming,11,TRUE,1.0791812460476249
+Development,SETTLEMENT/METAMORPHOSIS,Warming + acidification,16,TRUE,1.2304489213782739
+Growth,EMBRYO,Acidification,16,TRUE,1.2304489213782739
+Growth,EMBRYO,Warming,9,TRUE,1
+Growth,EMBRYO,Warming + acidification,18,TRUE,1.2787536009528289
+Growth,JUVENILE/ADULT,Acidification,96,TRUE,1.9867717342662448
+Growth,JUVENILE/ADULT,Warming,82,TRUE,1.919078092376074
+Growth,JUVENILE/ADULT,Warming + acidification,151,TRUE,2.1818435879447726
+Growth,LARVA,Acidification,37,TRUE,1.5797835966168101
+Growth,LARVA,Warming,30,TRUE,1.4913616938342726
+Growth,LARVA,Warming + acidification,44,TRUE,1.6532125137753437
+Growth,SETTLEMENT/METAMORPHOSIS,Acidification,,FALSE,
+Growth,SETTLEMENT/METAMORPHOSIS,Warming,,FALSE,
+Growth,SETTLEMENT/METAMORPHOSIS,Warming + acidification,,FALSE,
+Physiology,EMBRYO,Acidification,5,TRUE,0.7781512503836436
+Physiology,EMBRYO,Warming,5,TRUE,0.7781512503836436
+Physiology,EMBRYO,Warming + acidification,5,TRUE,0.7781512503836436
+Physiology,JUVENILE/ADULT,Acidification,73,TRUE,1.8692317197309762
+Physiology,JUVENILE/ADULT,Warming,66,TRUE,1.8260748027008264
+Physiology,JUVENILE/ADULT,Warming + acidification,81,TRUE,1.9138138523837167
+Physiology,LARVA,Acidification,20,TRUE,1.3222192947339193
+Physiology,LARVA,Warming,18,TRUE,1.2787536009528289
+Physiology,LARVA,Warming + acidification,21,TRUE,1.3424226808222062
+Physiology,SETTLEMENT/METAMORPHOSIS,Acidification,,FALSE,
+Physiology,SETTLEMENT/METAMORPHOSIS,Warming,,FALSE,
+Physiology,SETTLEMENT/METAMORPHOSIS,Warming + acidification,,FALSE,
+Reproduction,EMBRYO,Acidification,53,TRUE,1.7323937598229686
+Reproduction,EMBRYO,Warming,51,TRUE,1.7160033436347992
+Reproduction,EMBRYO,Warming + acidification,93,TRUE,1.9731278535996986
+Reproduction,JUVENILE/ADULT,Acidification,8,TRUE,0.9542425094393249
+Reproduction,JUVENILE/ADULT,Warming,8,TRUE,0.9542425094393249
+Reproduction,JUVENILE/ADULT,Warming + acidification,14,TRUE,1.1760912590556813
+Reproduction,LARVA,Acidification,,FALSE,
+Reproduction,LARVA,Warming,,FALSE,
+Reproduction,LARVA,Warming + acidification,,FALSE,
+Reproduction,SETTLEMENT/METAMORPHOSIS,Acidification,,FALSE,
+Reproduction,SETTLEMENT/METAMORPHOSIS,Warming,,FALSE,
+Reproduction,SETTLEMENT/METAMORPHOSIS,Warming + acidification,,FALSE,
+Routine respiration,EMBRYO,Acidification,,FALSE,
+Routine respiration,EMBRYO,Warming,,FALSE,
+Routine respiration,EMBRYO,Warming + acidification,,FALSE,
+Routine respiration,JUVENILE/ADULT,Acidification,51,TRUE,1.7160033436347992
+Routine respiration,JUVENILE/ADULT,Warming,50,TRUE,1.7075701760979363
+Routine respiration,JUVENILE/ADULT,Warming + acidification,65,TRUE,1.8195439355418688
+Routine respiration,LARVA,Acidification,5,TRUE,0.7781512503836436
+Routine respiration,LARVA,Warming,5,TRUE,0.7781512503836436
+Routine respiration,LARVA,Warming + acidification,5,TRUE,0.7781512503836436
+Routine respiration,SETTLEMENT/METAMORPHOSIS,Acidification,,FALSE,
+Routine respiration,SETTLEMENT/METAMORPHOSIS,Warming,,FALSE,
+Routine respiration,SETTLEMENT/METAMORPHOSIS,Warming + acidification,,FALSE,
+Survival,EMBRYO,Acidification,27,TRUE,1.4471580313422192
+Survival,EMBRYO,Warming,14,TRUE,1.1760912590556813
+Survival,EMBRYO,Warming + acidification,29,TRUE,1.4771212547196624
+Survival,JUVENILE/ADULT,Acidification,75,TRUE,1.8808135922807914
+Survival,JUVENILE/ADULT,Warming,39,TRUE,1.6020599913279623
+Survival,JUVENILE/ADULT,Warming + acidification,71,TRUE,1.8573324964312685
+Survival,LARVA,Acidification,21,TRUE,1.3424226808222062
+Survival,LARVA,Warming,20,TRUE,1.3222192947339193
+Survival,LARVA,Warming + acidification,28,TRUE,1.462397997898956
+Survival,SETTLEMENT/METAMORPHOSIS,Acidification,,FALSE,
+Survival,SETTLEMENT/METAMORPHOSIS,Warming,,FALSE,
+Survival,SETTLEMENT/METAMORPHOSIS,Warming + acidification,,FALSE,

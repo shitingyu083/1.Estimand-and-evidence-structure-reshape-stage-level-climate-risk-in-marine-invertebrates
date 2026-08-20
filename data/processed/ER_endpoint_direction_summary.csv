@@ -1,0 +1,31 @@
+Category,EndpointDirectionClassStrict,EffectSizeCount
+Behavior,adverse_when_increases,21
+Behavior,beneficial_when_increases,0
+Behavior,context_dependent,157
+Biodiversity,adverse_when_increases,0
+Biodiversity,beneficial_when_increases,0
+Biodiversity,context_dependent,21
+Biomechanics,adverse_when_increases,0
+Biomechanics,beneficial_when_increases,0
+Biomechanics,context_dependent,89
+Calcification,adverse_when_increases,15
+Calcification,beneficial_when_increases,171
+Calcification,context_dependent,61
+Development,adverse_when_increases,107
+Development,beneficial_when_increases,5
+Development,context_dependent,256
+Growth,adverse_when_increases,0
+Growth,beneficial_when_increases,483
+Growth,context_dependent,0
+Physiology,adverse_when_increases,0
+Physiology,beneficial_when_increases,0
+Physiology,context_dependent,294
+Reproduction,adverse_when_increases,0
+Reproduction,beneficial_when_increases,109
+Reproduction,context_dependent,118
+Routine respiration,adverse_when_increases,0
+Routine respiration,beneficial_when_increases,0
+Routine respiration,context_dependent,181
+Survival,adverse_when_increases,54
+Survival,beneficial_when_increases,270
+Survival,context_dependent,0

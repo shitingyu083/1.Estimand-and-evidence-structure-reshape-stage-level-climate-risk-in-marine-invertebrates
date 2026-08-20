@@ -1,0 +1,17 @@
+EvidenceSet,Definition,ObservedStage,Estimate,CI_low,CI_high,StageRank,StudyCount,EffectSizeCount
+All eligible endpoints,Endpoint-level |lnRR| averaged within study-stage,EMBRYO,0.1513504088380057,0.08806814452879509,0.21463267314721635,4,25,406
+All eligible endpoints,Absolute signed study-stage aggregate,EMBRYO,0.12843869065728805,0.0644191990586132,0.1924581822559629,4,25,406
+All eligible endpoints,Median absolute signed study-stage aggregate,EMBRYO,0.06245246960978917,0.032183083511777295,0.1241804657428223,4,25,406
+All eligible endpoints,Noise-corrected RMS signed study-stage aggregate,EMBRYO,0.2123247436388114,0.1102326659427963,0.294099038048833,4,25,406
+All eligible endpoints,Endpoint-level |lnRR| averaged within study-stage,LARVA,0.20771265082880053,0.15007431127036178,0.2653509903872393,3,38,472
+All eligible endpoints,Absolute signed study-stage aggregate,LARVA,0.1503111886291598,0.09870574928310907,0.2019166279752105,3,38,472
+All eligible endpoints,Median absolute signed study-stage aggregate,LARVA,0.10974366734061627,0.06276567854687756,0.1453348214274558,3,38,472
+All eligible endpoints,Noise-corrected RMS signed study-stage aggregate,LARVA,0.27060070250917007,0.14103374453812395,0.410861055582607,3,38,472
+All eligible endpoints,Endpoint-level |lnRR| averaged within study-stage,SETTLEMENT/METAMORPHOSIS,0.39948936784133643,0.20095893608803242,0.5980197995946405,1,10,41
+All eligible endpoints,Absolute signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,0.2844412662178892,0.06568931182309315,0.5031932206126852,1,10,41
+All eligible endpoints,Median absolute signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,0.15794928355756477,0.034708829516014846,0.4923265146421161,1,10,41
+All eligible endpoints,Noise-corrected RMS signed study-stage aggregate,SETTLEMENT/METAMORPHOSIS,0.4060111114853392,0.051564760421240155,0.6224684953322084,1,10,41
+All eligible endpoints,Endpoint-level |lnRR| averaged within study-stage,JUVENILE/ADULT,0.28537042735971113,0.23729278226190872,0.3334480724575135,2,101,1317
+All eligible endpoints,Absolute signed study-stage aggregate,JUVENILE/ADULT,0.2071263924380891,0.16238969625610988,0.25186308862006834,2,101,1317
+All eligible endpoints,Median absolute signed study-stage aggregate,JUVENILE/ADULT,0.13321952114519953,0.06499087695248673,0.19754759727194338,2,101,1317
+All eligible endpoints,Noise-corrected RMS signed study-stage aggregate,JUVENILE/ADULT,0.3119263630655119,0.2523302941967225,0.3663480422465828,2,101,1317

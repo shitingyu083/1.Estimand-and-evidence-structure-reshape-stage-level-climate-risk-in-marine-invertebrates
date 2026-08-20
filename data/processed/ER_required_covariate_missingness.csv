@@ -1,0 +1,8 @@
+Field,PresentInDataset,NonMissingCount,MissingCount,Notes
+DeltaTemperature_C,FALSE,0,2412,Needed for temperature moderator models
+Delta_pH,FALSE,0,2412,Needed for carbonate-chemistry moderator models
+pCO2_control_uatm,FALSE,0,2412,Needed for control CO2 level moderator models
+pCO2_treatment_uatm,FALSE,0,2412,Needed for treatment CO2 level moderator models
+ExposureDuration_days,FALSE,0,2412,Needed for exposure-duration moderator models
+EndpointSubstage,FALSE,0,2412,Needed for settlement/metamorphosis substage splitting
+SharedControlGroupID,FALSE,0,2412,Needed for shared-control covariance models

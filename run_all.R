@@ -1,0 +1,7 @@
+message("Running R meta-analysis and sensitivity workflow from the archived analysis-ready dataset")
+source(file.path("R", "02_meta_models.R"))
+source(file.path("R", "03_figures.R"))
+source(file.path("R", "04_estimand_sensitivity.R"))
+message("R workflow complete: REML results, robust variance estimates, sensitivity results and Figs. 2-4 regenerated.")
+message("Then run: python R/05_fig1_schematic.py")
+message("Then run: python R/09_reference_deviation_ml.py")

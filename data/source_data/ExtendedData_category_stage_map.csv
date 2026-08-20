@@ -1,0 +1,70 @@
+Category,ObservedStage,StressorLabel,EffectSizeCount,CategoryTotal
+Behavior,LARVA,Acidification,5,178
+Behavior,LARVA,Warming,5,178
+Behavior,LARVA,Warming + acidification,6,178
+Behavior,JUVENILE/ADULT,Acidification,41,178
+Behavior,JUVENILE/ADULT,Warming,43,178
+Behavior,JUVENILE/ADULT,Warming + acidification,78,178
+Biodiversity,JUVENILE/ADULT,Acidification,9,21
+Biodiversity,JUVENILE/ADULT,Warming,3,21
+Biodiversity,JUVENILE/ADULT,Warming + acidification,9,21
+Biomechanics,JUVENILE/ADULT,Acidification,31,89
+Biomechanics,JUVENILE/ADULT,Warming,24,89
+Biomechanics,JUVENILE/ADULT,Warming + acidification,34,89
+Calcification,LARVA,Acidification,9,247
+Calcification,LARVA,Warming,9,247
+Calcification,LARVA,Warming + acidification,14,247
+Calcification,JUVENILE/ADULT,Acidification,73,247
+Calcification,JUVENILE/ADULT,Warming,63,247
+Calcification,JUVENILE/ADULT,Warming + acidification,79,247
+Development,EMBRYO,Acidification,35,368
+Development,EMBRYO,Warming,23,368
+Development,EMBRYO,Warming + acidification,36,368
+Development,LARVA,Acidification,49,368
+Development,LARVA,Warming,40,368
+Development,LARVA,Warming + acidification,81,368
+Development,SETTLEMENT/METAMORPHOSIS,Acidification,14,368
+Development,SETTLEMENT/METAMORPHOSIS,Warming,11,368
+Development,SETTLEMENT/METAMORPHOSIS,Warming + acidification,16,368
+Development,JUVENILE/ADULT,Acidification,23,368
+Development,JUVENILE/ADULT,Warming,14,368
+Development,JUVENILE/ADULT,Warming + acidification,26,368
+Growth,EMBRYO,Acidification,16,483
+Growth,EMBRYO,Warming,9,483
+Growth,EMBRYO,Warming + acidification,18,483
+Growth,LARVA,Acidification,37,483
+Growth,LARVA,Warming,30,483
+Growth,LARVA,Warming + acidification,44,483
+Growth,JUVENILE/ADULT,Acidification,96,483
+Growth,JUVENILE/ADULT,Warming,82,483
+Growth,JUVENILE/ADULT,Warming + acidification,151,483
+Physiology,EMBRYO,Acidification,5,294
+Physiology,EMBRYO,Warming,5,294
+Physiology,EMBRYO,Warming + acidification,5,294
+Physiology,LARVA,Acidification,20,294
+Physiology,LARVA,Warming,18,294
+Physiology,LARVA,Warming + acidification,21,294
+Physiology,JUVENILE/ADULT,Acidification,73,294
+Physiology,JUVENILE/ADULT,Warming,66,294
+Physiology,JUVENILE/ADULT,Warming + acidification,81,294
+Reproduction,EMBRYO,Acidification,53,227
+Reproduction,EMBRYO,Warming,51,227
+Reproduction,EMBRYO,Warming + acidification,93,227
+Reproduction,JUVENILE/ADULT,Acidification,8,227
+Reproduction,JUVENILE/ADULT,Warming,8,227
+Reproduction,JUVENILE/ADULT,Warming + acidification,14,227
+Routine respiration,LARVA,Acidification,5,181
+Routine respiration,LARVA,Warming,5,181
+Routine respiration,LARVA,Warming + acidification,5,181
+Routine respiration,JUVENILE/ADULT,Acidification,51,181
+Routine respiration,JUVENILE/ADULT,Warming,50,181
+Routine respiration,JUVENILE/ADULT,Warming + acidification,65,181
+Survival,EMBRYO,Acidification,27,324
+Survival,EMBRYO,Warming,14,324
+Survival,EMBRYO,Warming + acidification,29,324
+Survival,LARVA,Acidification,21,324
+Survival,LARVA,Warming,20,324
+Survival,LARVA,Warming + acidification,28,324
+Survival,JUVENILE/ADULT,Acidification,75,324
+Survival,JUVENILE/ADULT,Warming,39,324
+Survival,JUVENILE/ADULT,Warming + acidification,71,324

@@ -1,0 +1,24 @@
+ObservedStage,Category,EndpointDirectionClass,EffectSizeCount,StageTotal,Share
+EMBRYO,Reproduction,unclassified,197,419,0.4701670644391408
+EMBRYO,Development,unclassified,94,419,0.2243436754176611
+EMBRYO,Survival,unclassified,70,419,0.16706443914081145
+EMBRYO,Growth,unclassified,43,419,0.1026252983293556
+EMBRYO,Physiology,unclassified,15,419,0.03579952267303103
+LARVA,Development,unclassified,170,472,0.3601694915254237
+LARVA,Growth,unclassified,111,472,0.23516949152542374
+LARVA,Survival,unclassified,69,472,0.1461864406779661
+LARVA,Physiology,unclassified,59,472,0.125
+LARVA,Calcification,unclassified,32,472,0.06779661016949153
+LARVA,Behavior,unclassified,16,472,0.03389830508474576
+LARVA,Routine respiration,unclassified,15,472,0.03177966101694915
+SETTLEMENT/METAMORPHOSIS,Development,unclassified,41,41,1
+JUVENILE/ADULT,Growth,unclassified,329,1480,0.2222972972972973
+JUVENILE/ADULT,Physiology,unclassified,220,1480,0.14864864864864866
+JUVENILE/ADULT,Calcification,unclassified,215,1480,0.14527027027027026
+JUVENILE/ADULT,Survival,unclassified,185,1480,0.125
+JUVENILE/ADULT,Routine respiration,unclassified,166,1480,0.11216216216216217
+JUVENILE/ADULT,Behavior,unclassified,162,1480,0.10945945945945947
+JUVENILE/ADULT,Biomechanics,unclassified,89,1480,0.06013513513513514
+JUVENILE/ADULT,Development,unclassified,63,1480,0.04256756756756757
+JUVENILE/ADULT,Reproduction,unclassified,30,1480,0.02027027027027027
+JUVENILE/ADULT,Biodiversity,unclassified,21,1480,0.01418918918918919
