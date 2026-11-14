@@ -1,0 +1,11 @@
+﻿Issue,Status,Evidence,Remaining_requirement
+Cross-layer duplicate records,Corrected,Boundary_source_pointer_repair.csv and revision_quality_checks.csv,None identified by defined duplicate key
+Dose-distinct records incorrectly collapsed,Corrected,Boundary_restoration_summary.json,None identified by source restoration
+Endpoint double reversal,Corrected,Boundary_alignment_changes.csv,None for identified technical issues; inherited inverted ratios explicitly described
+Subgroup forest BH scalar recycling,Corrected,revision_quality_checks.csv,
+Experimental-unit errors in recoverable sources,Corrected where recoverable,Boundary_Williams_morphology_repair.csv and Boundary_Study244_sampling_covariance.csv,Remaining study identifiers and limited header replication
+Exposure intensity,Substantially recovered,Review_exposure_recovery_summary.csv,Unreported values remain missing
+Exposure duration,Partially recovered,Review_exposure_recovery_summary.csv,Full-text extraction or author records for remaining studies
+Historical search chain,Partially recovered,Archived update search and screening logs,Complete historical exports and exclusion records
+Independent endpoint coding,Human endorsement of earlier audit reported; 36 source resolutions completed; 14 direction rules corrected,Review_independent_coding_record.csv and Table S17,Final author confirmation of source-verification changes; do not impute independent human coding
+Server dependencies and primary coefficients,Verified,server_primary_verification.txt,None for tested primary coefficients
