@@ -1,0 +1,56 @@
+{
+  "figure_copies": "All 24 exports identical across archive, package and clean submission",
+  "tree_species": 138,
+  "figure_dimensions": {
+    "Fig1_classification_and_evidence_update": {
+      "width_mm": 209.9,
+      "height_mm": 429.7
+    },
+    "Fig2_ecological_subgroup_responses": {
+      "width_mm": 209.9,
+      "height_mm": 329.8
+    },
+    "Fig3_subgroup_paired_differences": {
+      "width_mm": 209.9,
+      "height_mm": 329.8
+    },
+    "Fig4_primary_matched_response_comparison": {
+      "width_mm": 209.9,
+      "height_mm": 279.8
+    },
+    "Fig5_robustness_and_inference_limits": {
+      "width_mm": 209.9,
+      "height_mm": 329.8
+    },
+    "Fig6_reference_deviation_calibration": {
+      "width_mm": 209.9,
+      "height_mm": 294.9
+    }
+  },
+  "documents": {
+    "ER_cover_letter": 2594,
+    "ER_manuscript": 65136,
+    "ER_supplementary_material": 27287,
+    "ER_title_page": 1336,
+    "Highlights": 349,
+    "Submission_Declarations": 2649
+  },
+  "signed_BH_significance": {
+    "primary": "0/9",
+    "subgroup": "0/69"
+  },
+  "subgroup_refit_max_error": 4.440892098500626e-16,
+  "annotated_forests": {
+    "display_rows": 492,
+    "significant_rows": 27,
+    "star_rule": "Archived BH q only; checked row by row",
+    "transformation": "asinh display positions checked against original estimates"
+  },
+  "three_question_summary": "12 stage-definition cells verified against RVE and magnitude sources; no new tests",
+  "remaining_limits": [
+    "Figure 1 is a tall 210 x 430 mm master; production size needs editorial coordination.",
+    "Figures 2, 3 and 5 are annotated 210 x 330 mm masters; do not reduce to a single column.",
+    "Historical search completeness, experimental metadata and independent human coding provenance have not been newly resolved in this visual revision.",
+    "The current Environmental Research guide request returned HTTP 403."
+  ]
+}

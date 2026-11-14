@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-26",
+  "execution": "local Windows R 4.6.1",
+  "R_render_exit": 0,
+  "R_estimate_check_exit": 0,
+  "main_figures": [
+    {
+      "name": "Fig1_classification_and_evidence_update",
+      "pdf_mm": [
+        189.79,
+        388.76
+      ],
+      "tiff_dpi": [
+        600.0,
+        600.0
+      ],
+      "minimum_pdf_font_pt": 6.5,
+      "sha256_pdf": "b53645992a30bb5039665aff2ef85c047faa0647ba65a6a9ab652a8f24bc778f"
+    },
+    {
+      "name": "Fig2_ecological_subgroup_responses",
+      "pdf_mm": [
+        189.79,
+        298.8
+      ],
+      "tiff_dpi": [
+        600.0,
+        600.0
+      ],
+      "minimum_pdf_font_pt": 6.54,
+      "sha256_pdf": "0da7a95d69fcbff0f52799e6391adb7e6a81c5c2041919fe8a3e59c9918e82c8"
+    },
+    {
+      "name": "Fig3_subgroup_paired_differences",
+      "pdf_mm": [
+        189.79,
+        298.8
+      ],
+      "tiff_dpi": [
+        600.0,
+        600.0
+      ],
+      "minimum_pdf_font_pt": 6.54,
+      "sha256_pdf": "7aebc4a9f14bd71e39b942307f34618d31f9304f921bd4c3475deebc048e5a9b"
+    },
+    {
+      "name": "Fig4_primary_matched_response_comparison",
+      "pdf_mm": [
+        189.79,
+        252.94
+      ],
+      "tiff_dpi": [
+        600.0,
+        600.0
+      ],
+      "minimum_pdf_font_pt": 6.54,
+      "sha256_pdf": "c6dfe277e1897b8819b41408ff18d1de99f859a59ea544544e1cd104e1c2adf1"
+    },
+    {
+      "name": "Fig5_robustness_and_inference_limits",
+      "pdf_mm": [
+        189.79,
+        298.8
+      ],
+      "tiff_dpi": [
+        600.0,
+        600.0
+      ],
+      "minimum_pdf_font_pt": 6.5,
+      "sha256_pdf": "c285ef04210b379d680ab9479e221e419465261998ae2c5b8c769f5bae8b2796"
+    },
+    {
+      "name": "Fig6_reference_deviation_calibration",
+      "pdf_mm": [
+        189.79,
+        266.7
+      ],
+      "tiff_dpi": [
+        600.0,
+        600.0
+      ],
+      "minimum_pdf_font_pt": 6.5,
+      "sha256_pdf": "c6984db698d5fc40af7ababcac02001f90a51635cbbdfce9e50a59a9615b8800"
+    }
+  ],
+  "identical_source_submission_exports": 24,
+  "verified_species_labels": 138,
+  "verified_document_pairs": 6,
+  "verified_supplementary_pdfs": 13,
+  "refreshed_embedded_previews": 11,
+  "subgroup_refits": 207,
+  "maximum_refit_error": 4.440892098500626e-16,
+  "BH_signed_families": {
+    "Fig3b_estimand_target_differences.csv": {
+      "tested": 9,
+      "significant": 0
+    },
+    "Fig4_subgroup_estimand_paired_differences.csv": {
+      "tested": 69,
+      "significant": 0
+    }
+  },
+  "forest_display": {
+    "rows": 492,
+    "BH_star_rows": 27,
+    "transformed_estimates_verified": true,
+    "star_positions_verified": true
+  },
+  "excel_sheets": 41,
+  "visual_review": "All six main PDF previews inspected; forest points, labels and BH stars separated; final Fig5 matches manuscript caption.",
+  "limitations": [
+    "Tall vector masters require production-size readability review; no journal-guide compliance certification is implied.",
+    "Historical scientific limitations and author declarations are retained; no remote execution or journal upload was performed."
+  ]
+}

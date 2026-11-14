@@ -1,0 +1,10 @@
+﻿field,comparison,n,agreements,agreement,expected_agreement,kappa,levels
+DirectionRule,a vs b,266,258,0.9699248120300752,0.6732149923681384,0.9079664388893695,"['adverse_when_increases', 'beneficial_when_increases', 'context_dependent']"
+DirectionRule,a vs reference,266,254,0.9548872180451128,0.6514500537056928,0.8705701078582435,"['adverse_when_increases', 'beneficial_when_increases', 'context_dependent']"
+DirectionRule,b vs reference,266,246,0.924812030075188,0.6638306292045905,0.7763390229546792,"['adverse_when_increases', 'beneficial_when_increases', 'context_dependent']"
+ExcludedFromAligned,a vs b,266,258,0.9699248120300752,0.6761546723952739,0.9071310116086235,"['false', 'true']"
+ExcludedFromAligned,a vs reference,266,254,0.9548872180451128,0.654672395273899,0.8693623639191291,"['false', 'true']"
+ExcludedFromAligned,b vs reference,266,246,0.924812030075188,0.6668833738481543,0.7742893508697496,"['false', 'true']"
+DirectOutcome,a vs b,266,259,0.9736842105263158,0.8202555260331279,0.8535933322849506,"['false', 'true']"
+DirectOutcome,a vs reference,266,244,0.9172932330827067,0.8522810786364408,0.4401071565250665,"['false', 'true']"
+DirectOutcome,b vs reference,266,251,0.943609022556391,0.876222511165131,0.5444165334551267,"['false', 'true']"

@@ -1,0 +1,131 @@
+{
+  "audit_type": "Two non-blinded rule audits; not independent human duplicate coding",
+  "unit": "266 endpoint dictionary entries, unweighted by effect count",
+  "no_human_agreement_estimated": true,
+  "results": [
+    {
+      "field": "DirectionRule",
+      "comparison": "a vs b",
+      "n": 266,
+      "agreements": 258,
+      "agreement": 0.9699248120300752,
+      "expected_agreement": 0.6732149923681384,
+      "kappa": 0.9079664388893695,
+      "levels": [
+        "adverse_when_increases",
+        "beneficial_when_increases",
+        "context_dependent"
+      ]
+    },
+    {
+      "field": "DirectionRule",
+      "comparison": "a vs reference",
+      "n": 266,
+      "agreements": 254,
+      "agreement": 0.9548872180451128,
+      "expected_agreement": 0.6514500537056928,
+      "kappa": 0.8705701078582435,
+      "levels": [
+        "adverse_when_increases",
+        "beneficial_when_increases",
+        "context_dependent"
+      ]
+    },
+    {
+      "field": "DirectionRule",
+      "comparison": "b vs reference",
+      "n": 266,
+      "agreements": 246,
+      "agreement": 0.924812030075188,
+      "expected_agreement": 0.6638306292045905,
+      "kappa": 0.7763390229546792,
+      "levels": [
+        "adverse_when_increases",
+        "beneficial_when_increases",
+        "context_dependent"
+      ]
+    },
+    {
+      "field": "ExcludedFromAligned",
+      "comparison": "a vs b",
+      "n": 266,
+      "agreements": 258,
+      "agreement": 0.9699248120300752,
+      "expected_agreement": 0.6761546723952739,
+      "kappa": 0.9071310116086235,
+      "levels": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "field": "ExcludedFromAligned",
+      "comparison": "a vs reference",
+      "n": 266,
+      "agreements": 254,
+      "agreement": 0.9548872180451128,
+      "expected_agreement": 0.654672395273899,
+      "kappa": 0.8693623639191291,
+      "levels": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "field": "ExcludedFromAligned",
+      "comparison": "b vs reference",
+      "n": 266,
+      "agreements": 246,
+      "agreement": 0.924812030075188,
+      "expected_agreement": 0.6668833738481543,
+      "kappa": 0.7742893508697496,
+      "levels": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "field": "DirectOutcome",
+      "comparison": "a vs b",
+      "n": 266,
+      "agreements": 259,
+      "agreement": 0.9736842105263158,
+      "expected_agreement": 0.8202555260331279,
+      "kappa": 0.8535933322849506,
+      "levels": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "field": "DirectOutcome",
+      "comparison": "a vs reference",
+      "n": 266,
+      "agreements": 244,
+      "agreement": 0.9172932330827067,
+      "expected_agreement": 0.8522810786364408,
+      "kappa": 0.4401071565250665,
+      "levels": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "field": "DirectOutcome",
+      "comparison": "b vs reference",
+      "n": 266,
+      "agreements": 251,
+      "agreement": 0.943609022556391,
+      "expected_agreement": 0.876222511165131,
+      "kappa": 0.5444165334551267,
+      "levels": [
+        "false",
+        "true"
+      ]
+    }
+  ],
+  "input_sha256": {
+    "a": "e9d9b429f060c8852281f36194e0d619aa81a733517ebabe8032775cd5e9dd61",
+    "b": "c39aa7d235db79eef24a3f9a38e024afc8cd66d69e0356d186f4e2c76e64d06d"
+  }
+}

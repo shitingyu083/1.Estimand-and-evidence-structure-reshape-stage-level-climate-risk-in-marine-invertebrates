@@ -1,0 +1,12 @@
+R version 4.6.1 (2026-06-24 ucrt) 
+[1] "LC_COLLATE=English_United States.utf8;LC_CTYPE=English_United States.utf8;LC_MONETARY=English_United States.utf8;LC_NUMERIC=C;LC_TIME=English_United States.utf8"
+[1] "<project_root>/r_libs_461"
+[2] "C:/Program Files/R/R-4.6.1/library"               
+       readr        dplyr        tidyr      stringr      forcats      ggplot2 
+        TRUE         TRUE         TRUE         TRUE         TRUE         TRUE 
+   patchwork RColorBrewer      metafor       scales      svglite         ragg 
+        TRUE         TRUE         TRUE         TRUE         TRUE         TRUE 
+      igraph          ape      ggrepel 
+        TRUE         TRUE        FALSE 
+Error: all(ok) is not TRUE
+Execution halted

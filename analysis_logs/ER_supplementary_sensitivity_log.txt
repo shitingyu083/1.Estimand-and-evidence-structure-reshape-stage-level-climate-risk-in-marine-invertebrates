@@ -1,0 +1,4 @@
+Supplementary sensitivity analyses completed.
+Matched triplets: 441
+Minimum stage study count for balanced resampling: 9
+Combined-stressor deviation uses a sum-of-variances approximation because covariance was unavailable.

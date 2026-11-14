@@ -1,0 +1,49 @@
+Scale for x is already present.
+Adding another scale for x, which will replace the existing scale.
+Scale for colour is already present.
+Adding another scale for colour, which will replace the existing scale.
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+Warning message:
+There was 1 warning in `mutate()`.
+ℹ In argument: `GroupRaw = dplyr::case_when(...)`.
+Caused by warning:
+! Calling `case_when()` with size 1 LHS inputs and size >1 RHS inputs was
+  deprecated in dplyr 1.2.0.
+ℹ This `case_when()` statement can result in subtle silent bugs and is very inefficient.
+
+  Please use a series of if statements instead:
+
+  ```
+  # Previously
+  case_when(scalar_lhs1 ~ rhs1, scalar_lhs2 ~ rhs2, .default = default)
+
+  # Now
+  if (scalar_lhs1) {
+    rhs1
+  } else if (scalar_lhs2) {
+    rhs2
+  } else {
+    default
+  }
+  ``` 
+Scale for fill is already present.
+Adding another scale for fill, which will replace the existing scale.
+# A tibble: 6 × 6
+  StressorLabel       MagnitudeBand Performance StudyCells TotalCells Proportion
+  <chr>               <chr>         <chr>            <int>      <int>      <dbl>
+1 Acidification       Q4            Performanc…         18         23      0.783
+2 Acidification       Q4            Performanc…          5         23      0.217
+3 Warming             Q4            Performanc…         17         23      0.739
+4 Warming             Q4            Performanc…          6         23      0.261
+5 Warming + acidific… Q4            Performanc…         17         23      0.739
+6 Warming + acidific… Q4            Performanc…          6         23      0.261
+`summarise()` has regrouped the output.
+ℹ Summaries were computed grouped by ObservedStage and StressorLabel.
+ℹ Output is grouped by ObservedStage.
+ℹ Use `summarise(.groups = "drop_last")` to silence this message.
+ℹ Use `summarise(.by = c(ObservedStage, StressorLabel))` for per-operation
+  grouping (`?dplyr::dplyr_by`) instead.
+Scale for y is already present.
+Adding another scale for y, which will replace the existing scale.
+Rscript exit code = 0

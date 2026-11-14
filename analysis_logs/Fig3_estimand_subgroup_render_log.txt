@@ -1,0 +1,6 @@
+Figure 3 common subset: conservatively direction-interpretable endpoints in metamorphic taxa.
+Directional and aligned targets retain sign; absolute magnitude is applied after signed StudyID-stage-stressor aggregation.
+Between-target differences are equal-StudyID-cell paired means with 9999-resample percentile bootstrap intervals.
+Only signed aligned-minus-directional contrasts receive centered-null P values and BH correction; contrasts involving absolute folding are descriptive because |D|-D is structurally non-negative.
+Taxonomic-class and ecological-guild panels are exploratory directional REML estimates at rho = 0.8; moderator omnibus tests are BH-adjusted across the 15 prespecified moderator-by-driver combinations.
+Detailed subgroup calibration and moderator estimates are in Supplementary Figures S7-S9.

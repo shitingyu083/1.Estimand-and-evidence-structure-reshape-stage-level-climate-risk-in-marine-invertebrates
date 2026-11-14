@@ -1,0 +1,19 @@
+# A tibble: 6 × 6
+  StressorLabel       MagnitudeBand Performance StudyCells TotalCells Proportion
+  <chr>               <chr>         <chr>            <int>      <int>      <dbl>
+1 Acidification       Q4            Performanc…         18         23      0.783
+2 Acidification       Q4            Performanc…          5         23      0.217
+3 Warming             Q4            Performanc…         17         23      0.739
+4 Warming             Q4            Performanc…          6         23      0.261
+5 Warming + acidific… Q4            Performanc…         17         23      0.739
+6 Warming + acidific… Q4            Performanc…          6         23      0.261
+`summarise()` has regrouped the output.
+ℹ Summaries were computed grouped by ObservedStage and StressorLabel.
+ℹ Output is grouped by ObservedStage.
+ℹ Use `summarise(.groups = "drop_last")` to silence this message.
+ℹ Use `summarise(.by = c(ObservedStage, StressorLabel))` for per-operation
+  grouping (`?dplyr::dplyr_by`) instead.
+Scale for y is already present.
+Adding another scale for y, which will replace the existing scale.
+Final Figure 5 boxplot and Figure 6 graphical summary exports completed.
+Rscript exit code = 0

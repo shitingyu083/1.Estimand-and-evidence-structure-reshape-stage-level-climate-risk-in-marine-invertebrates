@@ -1,0 +1,4 @@
+Exploratory moderator family: Phylum, taxonomic class, ecological guild, endpoint pathway and life-history stage x three drivers (15 omnibus tests).
+Eligibility: at least three independent StudyID clusters per moderator level and at least two eligible levels per omnibus test.
+Models: inverse-variance aggregation within StudyID x moderator level followed by StudyID random-intercept REML meta-regression and StudyID-cluster sandwich-robust omnibus F tests with finite-sample adjustment.
+Multiplicity: one BH-FDR adjustment across all 15 prespecified omnibus tests; level summaries are descriptive context.

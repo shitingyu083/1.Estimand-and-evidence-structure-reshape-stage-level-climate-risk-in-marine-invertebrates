@@ -1,0 +1,4 @@
+207 subgroup REML fits and confidence intervals independently recomputed from archived cells.
+207 subgroup paired means and study-cell counts verified.
+Subgroup-mean BH families and both signed paired BH families verified.
+No statistical estimates changed during visual revision.

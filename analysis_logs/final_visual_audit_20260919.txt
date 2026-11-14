@@ -1,0 +1,7 @@
+Final render entry point: R/97_annotated_evidence_forests.R; supplementary forests: R/98_annotated_supplementary_forests.R.
+Fig1: 138 Arial italic species names in one continuous tree; 210 x 430 mm.
+Figs2/3/5: 210 x 330 mm; Fig4: 210 x 280 mm; Fig6: 210 x 295 mm. Production reduction requires a readability check.
+Black labels give estimates and evidence counts. Small translucent dots are observed cells, not simulations.
+asinh(x/0.15) display preserves all observations and intervals; labels retain original units. CR2 stage contrasts use a linear axis.
+Stars derive from archived BH q only. Primary signed differences: 0/9; subgroup signed differences: 0/69.
+No new statistical tests were introduced; descriptive absolute differences receive no zero-null significance stars.

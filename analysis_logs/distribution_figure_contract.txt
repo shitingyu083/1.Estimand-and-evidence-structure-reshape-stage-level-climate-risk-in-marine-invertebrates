@@ -1,0 +1,5 @@
+All distribution points are observed, inverse-variance aggregated study cells.
+Boxplots summarize medians/IQR, not meta estimates or confidence intervals.
+Fig6b square cells; red significant, blue not significant; stars use archived BH q values.
+Fig6a axes and tick labels on all facets.
+No new significance tests. Fig5d retained.
